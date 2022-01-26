@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=Windows&logoColor=white&color=6e33ba)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=Linux&logoColor=white&color=6e33ba)
 ![](https://img.shields.io/badge/Editor-VisualStudio-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=6e33ba)
-![](https://img.shields.io/badge/Code-Angular-informational?style=for-the-badge&logo=angular&logoColor=white&color=6e33ba)
+![](https://img.shields.io/badge/Code-vb.net-informational?style=for-the-badge&logo=vbnet&logoColor=white&color=6e33ba)
 ![](https://img.shields.io/badge/Code-C%23-informational?style=for-the-badge&logo=csharp&logoColor=white&color=6e33ba)
 
 
