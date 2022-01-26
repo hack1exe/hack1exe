@@ -9,6 +9,7 @@
 ![](https://img.shields.io/badge/Code-C%23-informational?style=for-the-badge&logo=csharp&logoColor=white&color=6e33ba)
 
 
+![](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <!--
 **HACK1EXE/HACK1EXE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
