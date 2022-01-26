@@ -11,12 +11,12 @@
 
 <p>
   <a href="https://github.com/drph4nt0m/drph4nt0m">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HACK1EXE" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HACK1EXE&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
   </a>
 </p>
 <p>
   <a href="https://github.com/HACK1EXE">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=HACK1EXE&show_icons=true&line_height=27&count_private=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Luke's GitHub Stats1" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=HACK1EXE&show_icons=true&line_height=27&count_private=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Luke's GitHub Stats" />
   </a>
 </p>
 
