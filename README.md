@@ -9,7 +9,29 @@
 ![](https://img.shields.io/badge/Code-C%23-informational?style=for-the-badge&logo=csharp&logoColor=white&color=6e33ba)
 
 
-![](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+<p>
+  <a href="https://github.com/drph4nt0m/drph4nt0m">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HACK1EXE&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+  </a>
+</p>
+<p>
+  <a href="https://github.com/drph4nt0m/drph4nt0m">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=drph4nt0m&show_icons=true&line_height=27&count_private=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Luke's GitHub Stats" />
+  </a>
+</p>
+<p>
+  <a href="https://github.com/drph4nt0m/avbot-v3">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HACK1EXE&repo=avbot-v3&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+  </a>
+</p>
+
+<!-- Resources -->
+<!-- Icons: https://simpleicons.org/ -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Emojis: https://emojipedia.org/emoji/ -->
+<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- Shields: https://shields.io/ -->
+<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 <!--
 **HACK1EXE/HACK1EXE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
