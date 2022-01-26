@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/Editor-VisualStudio-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=6e33ba)
 ![](https://img.shields.io/badge/Code-Angular-informational?style=for-the-badge&logo=angular&logoColor=white&color=6e33ba)
 ![](https://img.shields.io/badge/Code-Ionic-informational?style=for-the-badge&logo=ionic&logoColor=white&color=6e33ba)
-![](https://img.shields.io/badge/Code-C#-informational?style=for-the-badge&logo=csharp&logoColor=white&color=6e33ba)
+![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=csharp&logoColor=white&color=6e33ba)
 
 <!--
 **HACK1EXE/HACK1EXE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
