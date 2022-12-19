@@ -19,7 +19,7 @@
 </p>
 <p>
   <a href="https://github.com/HACK1EXE">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=HACK1EXE&show_icons=true&hide=contribs,prs&theme=transparent&title_color=268bd2&icon_color=b58900&&text_color=859900"  />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=HACK1EXE&show_icons=true&hide=contribs,prs&theme=transparent&title_color=268bd2&icon_color=b58900&&text_color=7fff00"  />
   </a>
 </p>
 
