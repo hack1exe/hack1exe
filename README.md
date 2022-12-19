@@ -15,12 +15,12 @@
 
 <p>
   <a href="https://github.com/HACK1EXE">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=HACK1EXE&show_icons=true&count_private=true&cache_seconds=86400&theme=chartreuse-dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=HACK1EXE&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=chartreuse-dark" />
   </a>
 </p>
 <p>
   <a href="https://github.com/HACK1EXE">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=HACK1EXE&show_icons=true&line_height=27&count_private=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Luke's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=HACK1EXE&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent"  />
   </a>
 </p>
 
