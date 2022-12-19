@@ -19,14 +19,14 @@
 </p>
 <p>
   <a href="https://github.com/HACK1EXE">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=HACK1EXE&show_icons=true&hide=contribs,prs&theme=transparent&title_color=268bd2&icon_color=00AEFF&text_color=859900"  />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=HACK1EXE&show_icons=true&hide=contribs,prs&theme=transparent&title_color=268bd2&icon_color=00AEFF&text_color=60C000"  />
   </a>
 </p>
 
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats b58900-->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats b58900 859900-->
 <!-- Emojis: https://emojipedia.org/emoji/ -->
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
