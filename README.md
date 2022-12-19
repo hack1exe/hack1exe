@@ -15,7 +15,7 @@
 
 <p>
   <a href="https://github.com/HACK1EXE">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=HACK1EXE&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=chartreuse-dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=HACK1EXE&show_icons=true&hide=contribs,prs&count_private=true&cache_seconds=86400&theme=chartreuse-dark" />
   </a>
 </p>
 <p>
