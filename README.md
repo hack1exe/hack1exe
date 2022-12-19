@@ -12,11 +12,7 @@
 ![](https://img.shields.io/badge/Code-C%23-informational?style=for-the-badge&logo=csharp&logoColor=white&color=6e33ba)
 
 
-<p>
-  <a href="https://github.com/HACK1EXE">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=HACK1EXE&show_icons=true&hide=contribs,prs&theme=chartreuse-dark" />
-  </a>
-</p>
+
 <p>
   <a href="https://github.com/HACK1EXE">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=HACK1EXE&show_icons=true&hide=contribs,prs&theme=transparent&title_color=268bd2&icon_color=00AEFF&text_color=60C000"  />
