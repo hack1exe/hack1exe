@@ -1,3 +1,4 @@
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HACK1EXE&repo=github-readme-stats&theme=chartreuse-dark)](https://github.com/HACK1EXE/HACK1EXE)
 ### Hi there 👋
 <a href="https://twitter.com/hack1exe" target="_blank">
   <img alt="@dhack1exe | Twitter" height="30px" src="https://img.shields.io/twitter/follow/hack1exe?label=hack1exe&logo=twitter&style=for-the-badge" />
