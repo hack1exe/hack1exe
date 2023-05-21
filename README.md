@@ -10,7 +10,7 @@
 </a> 
 
 <a href="https://twitter.com/hack1exe" target="_blank">
-  <img alt="@dhack1exe | Twitter" src="https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=Windows&logoColor=white&color=6e33ba" />
+  <img alt="@dhack1exe | Twitter" src="https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=Linux&logoColor=white&color=6e33ba" />
 </a> 
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=Windows&logoColor=white&color=6e33ba)
