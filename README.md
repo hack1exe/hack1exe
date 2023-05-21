@@ -5,9 +5,10 @@
 
 ## 🔧 Technologies & tools ...
 
-<a href="github.com" target="_blank">
-  <img alt="Windows | Twitter" height="30px" src="[https://img.shields.io/twitter/follow/hack1exe?label=hack1exe&logo=twitter&style=for-the-badge](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=Windows&logoColor=white&color=6e33ba)" />
-  </a>
+<a href="https://twitter.com/hack1exe" target="_blank">
+  <img alt="@dhack1exe | Twitter" height="30px" src="[https://img.shields.io/twitter/follow/hack1exe?label=hack1exe&logo=twitter&style=for-the-badge](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=Windows&logoColor=white&color=6e33ba)" />
+</a> 
+
 ![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=Windows&logoColor=white&color=6e33ba)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=Linux&logoColor=white&color=6e33ba)
 ![](https://img.shields.io/badge/IDE-Visual%20Studio-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=6e33ba)
