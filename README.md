@@ -7,7 +7,7 @@
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=Windows&logoColor=white&color=6e33ba)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=Linux&logoColor=white&color=6e33ba)
-![](https://img.shields.io/badge/IDE-VisualStudio-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=6e33ba)
+![](https://img.shields.io/badge/IDE-Visual%20Studio-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=6e33ba)
 ![](https://img.shields.io/badge/IDE-VScode-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=6e33ba)
 ![](https://img.shields.io/badge/Language-vb.net-informational?style=for-the-badge&logo=vb.net&logoColor=white&color=6e33ba)
 ![](https://img.shields.io/badge/Language-C%23-informational?style=for-the-badge&logo=csharp&logoColor=white&color=6e33ba)
