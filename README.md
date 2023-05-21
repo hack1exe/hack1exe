@@ -5,7 +5,7 @@
 
 ## 🔧 Technologies & tools ...
 
-<a href="https://twitter.com/hack1exe" target="_blank">
+<a href="https://google.com/search?q=Windows" target="_blank">
   <img alt="OS Windows" src="https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=Windows&logoColor=white&color=6e33ba" />
 </a> 
 <a href="https://twitter.com/hack1exe" target="_blank">
