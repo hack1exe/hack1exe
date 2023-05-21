@@ -8,11 +8,18 @@
 <a href="https://twitter.com/hack1exe" target="_blank">
   <img alt="@dhack1exe | Twitter" src="https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=Windows&logoColor=white&color=6e33ba" />
 </a> 
-
 <a href="https://twitter.com/hack1exe" target="_blank">
   <img alt="@dhack1exe | Twitter" src="https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=Linux&logoColor=white&color=6e33ba" />
 </a> 
-
+<a href="https://twitter.com/hack1exe" target="_blank">
+  <img alt="@dhack1exe | Twitter" src="https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=Linux&logoColor=white&color=6e33ba" />
+</a> 
+<a href="https://twitter.com/hack1exe" target="_blank">
+  <img alt="@dhack1exe | Twitter" src="https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=Linux&logoColor=white&color=6e33ba" />
+</a> 
+<a href="https://twitter.com/hack1exe" target="_blank">
+  <img alt="@dhack1exe | Twitter" src="https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=Linux&logoColor=white&color=6e33ba" />
+</a> 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=Windows&logoColor=white&color=6e33ba)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=Linux&logoColor=white&color=6e33ba)
 ![](https://img.shields.io/badge/IDE-Visual%20Studio-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=6e33ba)
@@ -24,7 +31,7 @@
 
 <p>
   <a href="https://github.com/HACK1EXE">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=HACK1EXE&show_icons=true&hide=contribs,prs&theme=transparent&title_color=268bd2&icon_color=00AEFF&text_color=60C000"  />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hack1exe&show_icons=true&hide=contribs,prs&theme=transparent&title_color=268bd2&icon_color=00AEFF&text_color=60C000"  />
   </a>
 </p>
 
