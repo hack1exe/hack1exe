@@ -18,6 +18,9 @@
   <img alt="@dhack1exe | Twitter" src="https://img.shields.io/badge/IDE-VScode-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=6e33ba" />
 </a> 
 <a href="https://twitter.com/hack1exe" target="_blank">
+  <img alt="@dhack1exe | Twitter" src="https://img.shields.io/badge/Language-vb.net-informational?style=for-the-badge&logo=vb.net&logoColor=white&color=6e33ba" />
+</a> 
+<a href="https://twitter.com/hack1exe" target="_blank">
   <img alt="@dhack1exe | Twitter" src="https://img.shields.io/badge/Language-C%23-informational?style=for-the-badge&logo=csharp&logoColor=white&color=6e33ba" />
 </a> 
 
