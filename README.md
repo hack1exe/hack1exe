@@ -24,13 +24,7 @@
   <img alt="Language C#" src="https://img.shields.io/badge/Language-C%23-informational?style=for-the-badge&logo=csharp&logoColor=white&color=6e33ba" />
 </a> 
 
-<!-- BLOG-POST-LIST:START -->
-- [userTrack v3 released](https://hack1exe.ds1nc.ru/blog/usertrack-analytics-v3-released)
-- [Markdown example post](https://hack1exe.ds1nc.ru/blog/markdown-example)
-- [Hello World](https://hack1exe.ds1nc.ru/blog/hello-world)
-- [realme 12 Pro — продвинутые камеры и приятная оболочка](https://habr.com/ru/articles/805489/?utm_campaign=805489&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Приложения для Vision Pro выглядят скучно](https://habr.com/ru/articles/789024/?utm_campaign=789024&utm_source=habrahabr&utm_medium=rss)
-<!-- BLOG-POST-LIST:END -->
+
 []
 
 <p>
