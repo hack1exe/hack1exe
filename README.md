@@ -26,9 +26,8 @@
 
 
 []
-<!--START_SECTION:feed-->
-...
-<!--END_SECTION:feed-->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <p>
   <a href="https://github.com/HACK1EXE">
