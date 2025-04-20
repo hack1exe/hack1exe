@@ -1,58 +1,45 @@
-### Hi there 👋
-<!--<a href="https://twitter.com/hack1exe" target="_blank">
-  <img alt="@dhack1exe | Twitter" height="30px" src="https://img.shields.io/twitter/follow/hack1exe?label=hack1exe&logo=twitter&style=for-the-badge" />
-</a> -->
+# Michail Electronshik 👾  
+**C#-разработчик · Кибербезопасность · Селф-хостер**  
+Музыкант в свободное время | [Мой сайт](https://hack1exe.netlify.app)
 
-## 🔧 Technologies & tools ...
+---
 
-<a href="https://github.com/hack1exe" target="_blank">
-  <img alt="OS Windows" src="https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=Windows&logoColor=white&color=6e33ba" />
-</a> 
-<a href="https://github.com/hack1exe" target="_blank">
-  <img alt="OS Linux" src="https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=Linux&logoColor=white&color=6e33ba" />
-</a> 
-<a href="https://github.com/hack1exe" target="_blank">
-  <img alt="IDE Visual Studio" src="https://img.shields.io/badge/IDE-Visual%20Studio-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=6e33ba" />
-</a> 
-<a href="https://github.com/hack1exe" target="_blank">
-  <img alt="IDE Visual Studio Code" src="https://img.shields.io/badge/IDE-VScode-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=6e33ba" />
-</a> 
-<a href="https://github.com/hack1exe" target="_blank">
-  <img alt="Language VB.NET" src="https://img.shields.io/badge/Language-vb.net-informational?style=for-the-badge&logo=vb.net&logoColor=white&color=6e33ba" />
-</a> 
-<a href="https://github.com/hack1exe" target="_blank">
-  <img alt="Language C#" src="https://img.shields.io/badge/Language-C%23-informational?style=for-the-badge&logo=csharp&logoColor=white&color=6e33ba" />
-</a> 
+## 🛠 Стек  
+- **Основной:**
 
-## Stack
+    ![Static Badge](https://img.shields.io/badge/Framework-informative?style=for-the-badge&logo=dotnet&logoSize=auto&color=555555)
+    ![Static Badge](https://img.shields.io/badge/Python-informative?style=for-the-badge&logo=python&logoSize=auto&color=555555)
+    ![Static Badge](https://img.shields.io/badge/JavaScript-informative?style=for-the-badge&logo=javascript&logoSize=auto&color=555555)
+    ![Static Badge](https://img.shields.io/badge/Nuxt.js-informative?style=for-the-badge&logo=nuxt&logoSize=auto&color=555555)
+    ![Static Badge](https://img.shields.io/badge/Astro.js-informative?style=for-the-badge&logo=astro&logoSize=auto&color=555555)
+    ![Static Badge](https://img.shields.io/badge/Docker-informative?style=for-the-badge&logo=docker&logoSize=auto&color=555555)
 
-[]
+- **Self-hosting:** 
+  
+    ![Static Badge](https://img.shields.io/badge/proxmox-informative?style=for-the-badge&logo=proxmox&logoSize=auto&color=555555)
+    ![Static Badge](https://img.shields.io/badge/Portainer-informative?style=for-the-badge&logo=portainer&logoSize=auto&color=555555)
+    ![Static Badge](https://img.shields.io/badge/Uptime%20Kuma-informative?style=for-the-badge&logo=uptimekuma&logoSize=auto&color=555555)
+    ![Static Badge](https://img.shields.io/badge/Home%20Assistant-informative?style=for-the-badge&logo=homeassistant&logoSize=auto&color=555555)
+    ![Static Badge](https://img.shields.io/badge/esphome-informative?style=for-the-badge&logo=esphome&logoSize=auto&color=555555)
 
-<p>
-  <a href="https://github.com/HACK1EXE">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hack1exe&show_icons=true&hide=contribs,prs&theme=transparent&title_color=268bd2&icon_color=00AEFF&text_color=60C000"  />
-  </a>
-</p>
+- **Безопасность:**
+
+    ![Static Badge](https://img.shields.io/badge/Kali%20Linux-informative?style=for-the-badge&logo=kalilinux&logoSize=auto&color=555555&logoColor=FFFFFF)
 
 
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats b58900 859900-->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
-<!--
-**HACK1EXE/HACK1EXE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🔒 Интересы  
+- Анализ уязвимостей и pentesting
+- Самостоятельное развертывание сервисов (IoT, NAS)
+- Создание рок-музыки в Reaper и Studio One
+- Автоматизация всего, что можно автоматизировать
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Активность  
+<!-- Виджет статистики -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hack1exe&show_icons=true&theme=dark&count_private=true)
+
+<!-- Виджет языков -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hack1exe&langs_count=6&layout=compact&theme=dark)
+
+## 📬 Связь  
+[![Static Badge](https://img.shields.io/badge/my%20website-informative?style=for-the-badge&&logoSize=auto&color=212121)](https://hack1exe.netlify.app)  
