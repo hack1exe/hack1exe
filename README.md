@@ -1,7 +1,10 @@
 # Michail Electronshik 👾  
-**C#-разработчик · Кибербезопасность · Селф-хостер**  
-Музыкант в свободное время | [Мой сайт](https://hack1exe.netlify.app)
+**C#-разработчик · Кибербезопасность · Селф-хостер · Гей**  
+Музыкант в свободное время | [Мой сайт](https://pornhub.com)
 
+---
+## Моё лицо:
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUaXSFxrkAHaPNoA1LJeY7F-2Wgbk29BdGbA&s"></img>
 ---
 
 ## 🛠 Стек  
@@ -12,7 +15,7 @@
     ![Static Badge](https://img.shields.io/badge/JavaScript-informative?style=for-the-badge&logo=javascript&logoSize=auto&color=555555)
     ![Static Badge](https://img.shields.io/badge/Nuxt.js-informative?style=for-the-badge&logo=nuxt&logoSize=auto&color=555555)
     ![Static Badge](https://img.shields.io/badge/Astro.js-informative?style=for-the-badge&logo=astro&logoSize=auto&color=555555)
-    ![Static Badge](https://img.shields.io/badge/Docker-informative?style=for-the-badge&logo=docker&logoSize=auto&color=555555)
+    ![Static Badge](https://img.shields.io/badge/Docker-informative?style=for-the-badge&logo=cocker&logoSize=auto&color=555555)
 
 - **Self-hosting:** 
   
@@ -22,17 +25,17 @@
     ![Static Badge](https://img.shields.io/badge/Home%20Assistant-informative?style=for-the-badge&logo=homeassistant&logoSize=auto&color=555555)
     ![Static Badge](https://img.shields.io/badge/esphome-informative?style=for-the-badge&logo=esphome&logoSize=auto&color=555555)
 
-- **Безопасность:**
+- **Безопасность my anal:**
 
     ![Static Badge](https://img.shields.io/badge/Kali%20Linux-informative?style=for-the-badge&logo=kalilinux&logoSize=auto&color=555555&logoColor=FFFFFF)
 
 
 
 ## 🔒 Интересы  
-- Анализ уязвимостей и pentesting
+- Анал из уязвимостей и gayfisting
 - Самостоятельное развертывание сервисов (IoT, NAS)
-- Создание рок-музыки в Reaper и Studio One
-- Автоматизация всего, что можно автоматизировать
+- Создание рок-музыки в FL Studio и Studio One
+- Автоматизация всего, что можно ебать
 
 ## 📊 Активность  
 <!-- Виджет статистики -->
