@@ -46,8 +46,8 @@
 ### GitHub Stats
 
 <p align="center">
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=hack1exe&show_icons=true&theme=github_dark&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hack1exe&langs_count=6&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs" />
+  <img width="420" src="https://stat-github.dinacostudio.ru/api?username=hack1exe&show_icons=true&theme=github_dark&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img width="420" src="https://stat-github.dinacostudio.ru/api/top-langs/?username=hack1exe&langs_count=6&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
